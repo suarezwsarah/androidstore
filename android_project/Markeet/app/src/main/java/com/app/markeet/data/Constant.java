@@ -7,7 +7,7 @@ public class Constant {
      */
 
     // Edit WEB_URL with your url. Make sure you have backslash('/') in the end url
-    public static String WEB_URL = "http://demo.dream-space.web.id/markeet_panel/";
+    public static String WEB_URL = "http://your-server/markeet_panel/";
 
     /* [ IMPORTANT ] be careful when edit this security code */
     /* This string must be same with security code at Server, if its different android unable to submit order */
