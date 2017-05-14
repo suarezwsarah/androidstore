@@ -1,6 +1,7 @@
 # androidstore
 androidstore/admin_project/services/conf.php
-There youll set up the web-based administration(CMS) after you upload the whole admin_project to your server 
+There youll set up the web-based administration(CMS) after you upload the whole admin_project to your server
+You must run demo_sql in database
 default login is 
 user: user_markeet
 password: user
